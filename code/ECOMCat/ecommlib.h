@@ -1,3 +1,4 @@
+//Canbus-hack
 #ifndef __ECI_DLL_INCLUDE_FILE__
 #define __ECI_DLL_INCLUDE_FILE__
 
